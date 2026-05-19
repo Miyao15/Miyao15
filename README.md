@@ -28,7 +28,6 @@ I am a Junior undergraduate at Hebei University of Technology (HEBUT), majoring 
 #### 1. Deep Learning for scRNA-seq Data (scMACR) 🔬
 * **Status:** Paper currently under review at *Analytical Chemistry* (CAS Q1).
 * **Highlights:** Developed a PyTorch-based unified deep graph learning framework. Utilized multi-granularity asymmetric self-distillation for single-cell and cross-omics representation, effectively eliminating the false-negative bias caused by traditional negative sampling.
-* *(Note: Core code is currently private due to double-blind review policies, but will be open-sourced upon publication).*
 
 #### 2. Multi-modal Intelligent Diagnosis System 🏥
 * **Status:** Software Copyright Application Accepted (Project No. X202510080040).
