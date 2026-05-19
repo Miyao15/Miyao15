@@ -25,11 +25,11 @@ I am a Junior undergraduate at Hebei University of Technology (HEBUT), majoring 
 
 ### 🚀 Highlighted Projects: From Idea to System
 
-#### 1. Deep Learning for scRNA-seq Data (scMACR) 🔬
+#### 1. Deep Learning for scRNA-seq Data (scMACR) 🔬(https://github.com/Miyao15/scMAGCL_system)
 * **Status:** Paper currently under review at *Analytical Chemistry* (CAS Q1).
 * **Highlights:** Developed a PyTorch-based unified deep graph learning framework. Utilized multi-granularity asymmetric self-distillation for single-cell and cross-omics representation, effectively eliminating the false-negative bias caused by traditional negative sampling.
 
-#### 2. Multi-modal Intelligent Diagnosis System 🏥
+#### 2. Multi-modal Intelligent Diagnosis System 🏥(https://github.com/Miyao15/scMACR)
 * **Status:** Software Copyright Application Accepted (Project No. X202510080040).
 * **Highlights:** Led the end-to-end development of an AI-driven SaaS platform. Successfully integrated complex AI diagnostic models into a fully functional B/S architecture, demonstrating strong capabilities in deploying deep learning algorithms into practical healthcare scenarios.
 
