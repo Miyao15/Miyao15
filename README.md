@@ -1,10 +1,10 @@
 # Hi there, I'm Hu Miyao! 👋
 
-**🎓 CS Undergrad @ HEBUT | 💻 AI Researcher & Full-Stack Developer**
+**🎓 CS Undergrad @ HEBUT 
 
 I am a Junior undergraduate at Hebei University of Technology (HEBUT), majoring in Computer Science and Technology (**Rank: 8/131, Top 6%**). I am deeply passionate about bridging the gap between cutting-edge AI algorithms and practical, scalable software systems.
 
-🎯 **Currently seeking a Master's/Ph.D. position for Fall 2027**, with a strong focus on Multi-modal Large Models, Computer Vision, and AI Systems.
+🎯 **Currently seeking a Master's/Ph.D. position for Fall 2027**, with a strong focus on Natural Language Processing (NLP), Large Language Models (LLMs), and AI Systems.
 
 ---
 
@@ -15,8 +15,8 @@ I am a Junior undergraduate at Hebei University of Technology (HEBUT), majoring 
 * **Core Expertise:** Unsupervised Representation Learning, Contrastive Learning, Graph Neural Networks (GNN), Attention Mechanisms.
 
 **System Engineering & Full-Stack**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-* **Core Expertise:** B/S Architecture, Multi-tenant Data Isolation, Real-time Data Visualization (WebGL), Multi-terminal Collaborative Systems.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+* **Core Expertise:** B/S Architecture, Multi-tenant Data Isolation, Real-time Data Visualization (WebGL), Algorithm Engineering.
 
 **Tools & Workflow**
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -25,18 +25,24 @@ I am a Junior undergraduate at Hebei University of Technology (HEBUT), majoring 
 
 ### 🚀 Highlighted Projects: From Idea to System
 
-#### 1. Deep Learning for scRNA-seq Data (scMACR) 🔬(https://github.com/Miyao15/scMAGCL_system)
+#### 1. Deep Learning for scRNA-seq Data (scMACR) 🔬
 * **Status:** Paper currently under review at *Analytical Chemistry* (CAS Q1).
 * **Highlights:** Developed a PyTorch-based unified deep graph learning framework. Utilized multi-granularity asymmetric self-distillation for single-cell and cross-omics representation, effectively eliminating the false-negative bias caused by traditional negative sampling.
+* *(Note: Core code is currently private due to double-blind review policies, but will be open-sourced upon publication).*
 
-#### 2. Multi-modal Intelligent Diagnosis System 🏥(https://github.com/Miyao15/scMACR)
-* **Status:** Software Copyright Application Accepted (Project No. X202510080040).
-* **Highlights:** Led the end-to-end development of an AI-driven SaaS platform. Successfully integrated complex AI diagnostic models into a fully functional B/S architecture, demonstrating strong capabilities in deploying deep learning algorithms into practical healthcare scenarios.
+#### 2. [Single-cell Intelligent Analysis SaaS Platform 💻](https://github.com/Miyao15/scMAGCL_system)
+* **Status:** Software Copyright Application Accepted (Acceptance No. 2026R11S0576296).
+* **Highlights:** Led the end-to-end development of a B/S architecture SaaS platform. Wrapped the custom scMACR algorithm as the core PyTorch engine, utilized MySQL for multi-tenant data isolation, and built an interactive workflow using Streamlit and Plotly WebGL for ultra-fast UMAP rendering.
+* **🔗 Code & System:** [Miyao15/scMAGCL_system](https://github.com/Miyao15/scMAGCL_system) 
 
+#### 3. Comprehensive Modeling Strategy for NIPT Detection 📊
+* **Status:** Provincial 2nd Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM).
+* **Highlights:** Designed core algorithms integrating Kernel Density Estimation (KDE), Monte Carlo simulations, and K-means clustering to solve optimal detection timing. Addressed imbalanced samples using SMOTE to build a robust Logistic Regression diagnostic model (Achieved 84.6% Recall and 0.691 AUC).
 
 ---
 
 ### 📫 Let's Connect!
 
-* **Email:** [13582087146@163.com](mailto:13582087146@163.com)
+* **Email:** [13582087146@163.com](mailto:230002@stu.hebut.edu.cn)
+* **GitHub:** [github.com/Miyao15](https://github.com/Miyao15)
 * **Status:** Open to academic collaborations and Fall 2027 prospective student opportunities.
