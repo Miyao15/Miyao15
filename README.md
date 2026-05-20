@@ -43,6 +43,6 @@ I am a Junior undergraduate at Hebei University of Technology (HEBUT), majoring 
 
 ### 📫 Let's Connect!
 
-* **Email:** [13582087146@163.com](mailto:230002@stu.hebut.edu.cn)
+* **Email:** [230002@stu.hebut.edu.cn](mailto:230002@stu.hebut.edu.cn)
 * **GitHub:** [github.com/Miyao15](https://github.com/Miyao15)
 * **Status:** Open to academic collaborations and Fall 2027 prospective student opportunities.
