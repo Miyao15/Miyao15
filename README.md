@@ -4,7 +4,7 @@
 
 I am a Junior undergraduate at Hebei University of Technology (HEBUT), majoring in Computer Science and Technology (**Rank: 8/131, Top 6%**). I am deeply passionate about bridging the gap between cutting-edge AI algorithms and practical, scalable software systems.
 
-🎯 **Currently seeking a Master's/Ph.D. position for Fall 2027**, with a strong focus on Natural Language Processing (NLP), Large Language Models (LLMs), and AI Systems.
+🎯 **Currently seeking a Master's position for Fall 2027, with a strong focus on NLP, LLMs, machine learning, data mining, graph representation learning, knowledge graphs, recommender systems, and AI systems. I am particularly drawn to problems where I can leverage my experience in unsupervised learning and graph neural networks to build practical, scalable AI solutions.
 
 ---
 
@@ -26,7 +26,7 @@ I am a Junior undergraduate at Hebei University of Technology (HEBUT), majoring 
 ### 🚀 Highlighted Projects: From Idea to System
 
 #### 1. Deep Learning for scRNA-seq Data (scMACR) 🔬
-* **Status:** Paper currently under review at *Analytical Chemistry* (CAS Q1).
+* **Status:** Paper currently under review at *Knowledge-Based Systems* (JCR Q1).
 * **Highlights:** Developed a PyTorch-based unified deep graph learning framework. Utilized multi-granularity asymmetric self-distillation for single-cell and cross-omics representation, effectively eliminating the false-negative bias caused by traditional negative sampling.
 * **🔗 Core Algorithm Code:** [Miyao15/scMACR](https://github.com/Miyao15/scMACR)
 
